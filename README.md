@@ -1,5 +1,5 @@
 # EmpresaAmazing
--https://youtu.be/N1PzyUvri68
+[![Video del Proyecto](https://img.youtube.com/vi/N1PzyUvri68/maxresdefault.jpg)](https://www.youtube.com/watch?v=N1PzyUvri68)
 
 EmpresaAmazing es una aplicación Java que gestiona pedidos y transporte para una empresa. Permite registrar vehículos, crear pedidos, agregar paquetes a los pedidos y gestionar el proceso de entrega.
 
